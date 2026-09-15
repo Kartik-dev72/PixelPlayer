@@ -1,0 +1,652 @@
+09-15 12:19:01.865 19127 19127 I loper.pixelplay: Using generational CollectorTypeCMC GC.
+09-15 12:19:01.871 19127 19127 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+09-15 12:19:01.886 19127 19127 D NtScrollerManagerImpl: init NtScrollerManagerImpl
+09-15 12:19:01.889 19127 19127 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+09-15 12:19:01.889 19127 19127 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+09-15 12:19:01.922 19127 19127 D nativeloader: Configuring clns-9 for other apk /data/app/~~wjOHZs743Ovk7XnBjlPn5A==/com.theveloper.pixelplay-SkjF85V1PxA_vH54pP6b1w==/base.apk. target_sdk_version=37, uses_libraries=, library_path=/data/app/~~wjOHZs743Ovk7XnBjlPn5A==/com.theveloper.pixelplay-SkjF85V1PxA_vH54pP6b1w==/lib/arm64:/data/app/~~wjOHZs743Ovk7XnBjlPn5A==/com.theveloper.pixelplay-SkjF85V1PxA_vH54pP6b1w==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.theveloper.pixelplay
+09-15 12:19:01.924 19127 19127 I loper.pixelplay: AssetManager2(0xb400007a587b1fd8) locale list changing from [] to [en-IN]
+09-15 12:19:01.926 19127 19127 I Perf    : Connecting to perf service.
+09-15 12:19:01.929 19127 19127 V GraphicsEnvironment: Currently set values for:
+09-15 12:19:01.929 19127 19127 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[com.android.angle, com.linecorp.b612.android, com.campmobile.snow, com.google.android.apps.tachyon]
+09-15 12:19:01.929 19127 19127 V GraphicsEnvironment:   angle_gl_driver_selection_values=[angle, native, native, native]
+09-15 12:19:01.929 19127 19127 V GraphicsEnvironment: com.theveloper.pixelplay is not listed in per-application setting
+09-15 12:19:01.929 19127 19127 V GraphicsEnvironment: ANGLE allowlist from config: 
+09-15 12:19:01.929 19127 19127 V GraphicsEnvironment: com.theveloper.pixelplay is not listed in ANGLE allowlist or settings, returning default
+09-15 12:19:01.929 19127 19127 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+09-15 12:19:01.937 19127 19127 D SceneManager: init SceneManager
+09-15 12:19:01.954 19127 19150 I DisplayManager: Choreographer implicitly registered for the refresh rate.
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: QUALCOMM build                   : f1c98d72b3, I45c5214ffd
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Build Date                       : 07/11/25
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: E031.47.18.36
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Local Branch                     : 
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.14.3.0.11.00.00.973.839
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Remote Branch                    : NONE
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Build Config                     : S L 16.1.2 AArch64
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Driver Version                   : 0800.49
+09-15 12:19:01.956 19127 19150 I AdrenoGLES-0: Process Name                     : com.theveloper.pixelplay
+09-15 12:19:01.959 19127 19127 I loper.pixelplay: AssetManager2(0xb400007a587ba958) locale list changing from [] to [en-IN]
+09-15 12:19:01.965 19127 19127 E ashmem  : Pinning is deprecated since Android Q. Please use trim or other methods.
+09-15 12:19:01.966 19127 19150 I AdrenoGLES-0: PFP: 0x01100079, ME: 0x00000000
+09-15 12:19:01.969 19127 19127 D NtViewImpl: init NtViewImpl
+09-15 12:19:01.971 19127 19127 D DesktopModeFlags: Toggle override initialized to: OVERRIDE_UNSET
+09-15 12:19:01.972 19127 19150 I AdrenoUtils: <ReadGpuID:366>: Reading chip ID through GSL
+09-15 12:19:02.006 19127 19127 D nativeloader: Load /data/app/~~wjOHZs743Ovk7XnBjlPn5A==/com.theveloper.pixelplay-SkjF85V1PxA_vH54pP6b1w==/base.apk!/lib/arm64-v8a/libtdjni.so using class loader ns clns-9 (caller=/data/app/~~wjOHZs743Ovk7XnBjlPn5A==/com.theveloper.pixelplay-SkjF85V1PxA_vH54pP6b1w==/base.apk): ok
+09-15 12:19:02.008 19127 19127 I loper.pixelplay: Thread[1,tid=19127,Native,Thread*=0xb4000079d87827b0,peer=0x71c6cd58,"main"] recursive attempt to load library "/data/app/~~wjOHZs743Ovk7XnBjlPn5A==/com.theveloper.pixelplay-SkjF85V1PxA_vH54pP6b1w==/base.apk!/lib/arm64-v8a/libtdjni.so"
+09-15 12:19:02.478 19127 19127 V MediaRouter: Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+09-15 12:19:02.478 19127 19127 I MediaRouter: Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=false, BT route=null
+09-15 12:19:02.507 19127 19127 W System  : ClassLoader referenced unknown path: 
+09-15 12:19:02.507 19127 19127 D nativeloader: Configuring clns-10 for other apk . target_sdk_version=37, uses_libraries=, library_path=/data/app/~~IxeQoa01ahsR6De1gIpVcw==/com.google.android.gms-DiAWuDrrduuLf0MfeAHAcA==/lib/arm64:/data/app/~~IxeQoa01ahsR6De1gIpVcw==/com.google.android.gms-DiAWuDrrduuLf0MfeAHAcA==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+09-15 12:19:02.511 19127 19127 I loper.pixelplay: AssetManager2(0xb400007a587c2338) locale list changing from [] to [en-IN]
+09-15 12:19:02.518 19127 19127 I loper.pixelplay: AssetManager2(0xb400007a587c3c38) locale list changing from [] to [en-IN]
+09-15 12:19:02.519 19127 19127 I loper.pixelplay: AssetManager2(0xb400007a587c32d8) locale list changing from [] to [en-IN]
+09-15 12:19:02.522 19127 19127 I CastDynamiteModuleImpl: sl created by ClassLoader dalvik.system.DelegateLastClassLoader[DexPathList[[zip file "/data/app/~~IxeQoa01ahsR6De1gIpVcw==/com.google.android.gms-DiAWuDrrduuLf0MfeAHAcA==/split_DynamiteModulesC_installtime.apk"],nativeLibraryDirectories=[/data/app/~~IxeQoa01ahsR6De1gIpVcw==/com.google.android.gms-DiAWuDrrduuLf0MfeAHAcA==/split_DynamiteModulesC_installtime.apk!/lib/arm64-v8a, /system/lib64, /system_ext/lib64]]].
+09-15 12:19:02.548 19127 19127 D AudioSystem: onNewService: media.audio_policy service obtained 0xb4000079b87e06d0
+09-15 12:19:02.548 19127 19127 D AudioSystem: getService: checking for service media.audio_policy: 0xb4000079b87e06d0
+09-15 12:19:02.562 19127 19194 E HWUI    : attachRenderThreadToJvm
+09-15 12:19:02.563 19127 19194 E HWUI    : AM IS NOT NULL!
+09-15 12:19:02.563 19127 19195 E HWUI    : attachRenderThreadToJvm
+09-15 12:19:02.563 19127 19195 E HWUI    : AM IS NOT NULL!
+09-15 12:19:02.563 19127 19152 W JobInfo : Requested important-while-foreground flag for job23 is ignored and takes no effect
+09-15 12:19:02.568 19127 19127 W AxMediaRouter: Ignoring attempt to select selected route: MediaRouter.RouteInfo{ uniqueId=DEFAULT_ROUTE, name=Phone, description=null, iconUri=null, enabled=true, isSystemRoute=true, connectionState=0, canDisconnect=false, playbackType=0, playbackStream=3, deviceType=0, volumeHandling=1, volume=6, volumeMax=16, presentationDisplayId=-1, extras=null, settingsIntent=null, providerPackageName=android }
+09-15 12:19:02.568 19127 19127 V MediaRouter: Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+09-15 12:19:02.572 19127 19127 D AudioSystem: onNewServiceWithAdapter: media.audio_flinger service obtained 0xb400007af881b690
+09-15 12:19:02.572 19127 19127 D AudioSystem: getService: checking for service media.audio_flinger: 0xb4000079b87db360
+09-15 12:19:02.586 19127 19196 E ActivityThread: Failed to find provider info for androidx.car.app.connection
+09-15 12:19:02.705 19127 19127 D NtViewRootImpl: mPopUpViewOffsets: offset=(0.0, 0.0), scale=(1.0, 1.0)
+09-15 12:19:02.767 19127 19127 D AudioTrack: set(): streamType -1, sampleRate 44100, format 0x5, channelMask 0x3, frameCount 3536, flags 0, notificationFrames 0, sessionId 0, transferType 3, uid 10598, pid 19127
+09-15 12:19:02.771 19127 19127 E AudioTrack: createTrack_l(4140) on outputId 29 : 0xb400007b187a0080, mCblk = 0x7c488a2000, mLatency = 189, mAfLatency = 109, frameCount = 3536, mSampleRate = 44100, mFlags = 00000000, mReqFrameCount = 3536, mNotificationFramesAct = 1768
+09-15 12:19:02.772 19127 19127 D AudioTrack: stop(4140): prior state:STATE_STOPPED
+09-15 12:19:02.772 19127 19127 D AudioTrack: stop(4140): prior state:STATE_STOPPED
+09-15 12:19:02.773 19127 19127 D AudioTrack: updateStateToService: AudioTrackStatus state:1
+09-15 12:19:02.773 19127 19127 D AudioTrack: ~AudioTrack(4140), releasing session id 23001 from 19127 on behalf of 19127
+09-15 12:19:02.777 19127 19127 W HiFiCapability: syncUserPlaylists: Not logged in, aborting
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: JellyfinRepo: Failed syncing library songs
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: java.lang.Exception: Not logged in
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at zm4.g(SourceFile:65)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at ur2.invokeSuspend(SourceFile:682)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: java.lang.Exception: Not logged in
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at zm4.g(SourceFile:65)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at ur2.invokeSuspend(SourceFile:682)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:02.779 19127 19203 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:02.784 19127 19163 W JobInfo : Requested important-while-foreground flag for job24 is ignored and takes no effect
+09-15 12:19:02.866 19127 19210 W HWUI    : Image decoding logging dropped!
+09-15 12:19:02.866 19127 19212 W HWUI    : Image decoding logging dropped!
+09-15 12:19:02.868 19127 19145 W HWUI    : Image decoding logging dropped!
+09-15 12:19:02.882 19127 19130 I loper.pixelplay: Compiler allocated 5486KB to compile java.lang.Object pn7.invokeSuspend(java.lang.Object)
+09-15 12:19:02.933 19127 19199 W HWUI    : Image decoding logging dropped!
+09-15 12:19:02.933 19127 19144 W HWUI    : Image decoding logging dropped!
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: NavidromeRepo: Failed syncing library songs
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: java.lang.Exception: Not logged in
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at bs6.l(SourceFile:57)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at pr6.invokeSuspend(SourceFile:201)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: java.lang.Exception: Not logged in
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at bs6.l(SourceFile:57)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at pr6.invokeSuspend(SourceFile:201)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:02.940 19127 19144 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:02.942 19127 19127 D NtViewRootImpl: mPopUpViewOffsets: offset=(0.0, 0.0), scale=(1.0, 1.0)
+09-15 12:19:02.998 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:02.998 19127 19127 I ImeTracker: com.theveloper.pixelplay:bf615402: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-15 12:19:03.250 19127 19158 W MusicService_PixelPlay: No se encontraron widgets para actualizar
+09-15 12:19:03.252 19127 19215 I NtAudioManager: getStreamVolume streamType :3, pkg :com.theveloper.pixelplay, index :6
+09-15 12:19:04.285 19127 19199 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.296 19127 19156 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.299 19127 19149 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.306 19127 19209 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.310 19127 19145 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.312 19127 19212 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.315 19127 19209 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.320 19127 19149 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.329 19127 19209 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.563 19127 19199 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.564 19127 19149 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.568 19127 19145 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.578 19127 19145 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.595 19127 19215 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.597 19127 19215 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.603 19127 19156 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.605 19127 19205 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.668 19127 19212 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.671 19127 19145 W HWUI    : Image decoding logging dropped!
+09-15 12:19:04.793 19127 19131 I loper.pixelplay: Background young concurrent mark compact GC freed 41MB AllocSpace bytes, 101(8872KB) LOS objects, 45% free, 26MB/47MB, paused 1.410ms,3.143ms total 155.568ms
+09-15 12:19:05.357 19127 19127 D NtViewRootImpl: mPopUpViewOffsets: offset=(0.0, 0.0), scale=(1.0, 1.0)
+09-15 12:19:05.359 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:05.360 19127 19127 I ImeTracker: com.theveloper.pixelplay:2c38fd48: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-15 12:19:08.163 19127 19127 I loper.pixelplay: AssetManager2(0xb400007a587cd558) locale list changing from [] to [en-IN]
+09-15 12:19:08.226 19127 19127 D NtViewRootImpl: mPopUpViewOffsets: offset=(0.0, 0.0), scale=(1.0, 1.0)
+09-15 12:19:10.538 16725 16765 I AndroidRuntime: VM exiting with result code 0, cleanup skipped.
+09-15 12:19:27.918 19127 19127 D NtViewRootImpl: mPopUpViewOffsets: offset=(0.0, 0.0), scale=(1.0, 1.0)
+09-15 12:19:27.918 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:27.918 19127 19127 I ImeTracker: com.theveloper.pixelplay:e215d65a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-15 12:19:29.050 19127 19127 D InsetsController: show(ime(), fromIme=false)
+09-15 12:19:29.051 19127 19127 I ImeTracker: com.theveloper.pixelplay:913b1ce8: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+09-15 12:19:29.052 19127 19127 D InsetsController: Setting requestedVisibleTypes to -1 (was -9)
+09-15 12:19:29.071 19127 19127 I AssistStructure: Flattened final assist data: 548 bytes, containing 1 windows, 3 views
+09-15 12:19:29.079 19127 19127 I ImeTracker: com.theveloper.pixelplay:a202fc85: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+09-15 12:19:29.079 19127 19127 D InsetsController: show(ime(), fromIme=false)
+09-15 12:19:29.079 19127 19127 I ImeTracker: com.theveloper.pixelplay:a202fc85: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+09-15 12:19:30.898 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:30.898 19127 19127 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@d2b164e
+09-15 12:19:30.898 19127 19127 D InsetsController: Setting requestedVisibleTypes to -9 (was -1)
+09-15 12:19:30.901 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:30.901 19127 19127 I ImeTracker: com.google.android.inputmethod.latin:4c0209b6: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-15 12:19:31.357 19127 19127 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=k17@37307f
+09-15 12:19:31.432 19127 19130 W loper.pixelplay: Missing inline cache for java.lang.Object l90.invokeSuspend(java.lang.Object)
+09-15 12:19:31.435 19127 19205 W HWUI    : Image decoding logging dropped!
+09-15 12:19:31.435 19127 19215 W HWUI    : Image decoding logging dropped!
+09-15 12:19:31.436 19127 19213 W HWUI    : Image decoding logging dropped!
+09-15 12:19:31.437 19127 19145 W HWUI    : Image decoding logging dropped!
+09-15 12:19:31.441 19127 19205 W HWUI    : Image decoding logging dropped!
+09-15 12:19:31.815 19127 19127 I ImeTracker: com.theveloper.pixelplay:af4d63ea: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+09-15 12:19:31.815 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:31.815 19127 19127 I ImeTracker: com.theveloper.pixelplay:af4d63ea: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-15 12:19:31.815 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:31.816 19127 19127 I ImeTracker: com.theveloper.pixelplay:f252352: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+09-15 12:19:31.816 19127 19127 I ImeTracker: com.theveloper.pixelplay:f252352: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-15 12:19:31.827 19127 19130 I loper.pixelplay: Compiler allocated 5833KB to compile void mf5.d(bs7, float, float, float, mp6, boolean, boolean, eo3, int)
+09-15 12:19:32.962 19127 19127 D NtViewRootImpl: mPopUpViewOffsets: offset=(0.0, 0.0), scale=(1.0, 1.0)
+09-15 12:19:32.965 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:32.965 19127 19127 I ImeTracker: com.theveloper.pixelplay:2b07472c: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-15 12:19:33.055 19127 19127 D InsetsController: show(ime(), fromIme=false)
+09-15 12:19:33.056 19127 19127 I ImeTracker: com.theveloper.pixelplay:f3095117: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT_BY_INSETS_API fromUser false
+09-15 12:19:33.056 19127 19127 D InsetsController: Setting requestedVisibleTypes to -1 (was -9)
+09-15 12:19:33.069 19127 19127 I AssistStructure: Flattened final assist data: 548 bytes, containing 1 windows, 3 views
+09-15 12:19:33.078 19127 19127 I ImeTracker: com.theveloper.pixelplay:3855c0a6: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser false
+09-15 12:19:33.078 19127 19127 D InsetsController: show(ime(), fromIme=false)
+09-15 12:19:33.079 19127 19127 I ImeTracker: com.theveloper.pixelplay:3855c0a6: onCancelled at PHASE_CLIENT_REPORT_REQUESTED_VISIBLE_TYPES
+09-15 12:19:35.068 19127 19127 I ImeTracker: com.theveloper.pixelplay:29488aa5: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+09-15 12:19:35.068 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:35.068 19127 19127 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ImeBackAnimationController@d2b164e
+09-15 12:19:35.068 19127 19127 D InsetsController: Setting requestedVisibleTypes to -9 (was -1)
+09-15 12:19:35.069 19127 19127 D InsetsController: hide(ime(), fromIme=false)
+09-15 12:19:35.070 19127 19127 I ImeTracker: com.theveloper.pixelplay:90d9f6c5: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_BY_INSETS_API fromUser false
+09-15 12:19:35.070 19127 19127 I ImeTracker: com.theveloper.pixelplay:90d9f6c5: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+09-15 12:19:36.034 19127 19204 W HWUI    : Image decoding logging dropped!
+09-15 12:19:36.037 19127 19146 W HWUI    : Image decoding logging dropped!
+09-15 12:19:36.042 19127 19146 W HWUI    : Image decoding logging dropped!
+09-15 12:19:36.875 19127 19201 W HWUI    : Image decoding logging dropped!
+09-15 12:19:36.950 19127 19204 W HWUI    : Image decoding logging dropped!
+09-15 12:19:36.974 19127 19204 W HWUI    : Image decoding logging dropped!
+09-15 12:19:37.758 19127 19146 W ArtistImageRepository: Piped: Instance failed: 525 https://pipedapi.kavin.rocks
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: Piped: Failed to parse response from https://pipedapi.in.projectsegfau.lt
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: wo4: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: See https://github.com/google/gson/blob/main/Troubleshooting.md#unexpected-json-structure
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at me8.b(SourceFile:71)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at ix3.a(SourceFile:20)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at ix3.c(SourceFile:18)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at ix3.b(SourceFile:4)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at bg.b(SourceFile:334)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: See https://github.com/google/gson/blob/main/Troubleshooting.md#unexpected-json-structure
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at up4.u0(SourceFile:57)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at up4.k(SourceFile:21)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at me8.b(SourceFile:21)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	... 15 more
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: wo4: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: See https://github.com/google/gson/blob/main/Troubleshooting.md#unexpected-json-structure
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at me8.b(SourceFile:71)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at ix3.a(SourceFile:20)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at ix3.c(SourceFile:18)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at ix3.b(SourceFile:4)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at bg.b(SourceFile:334)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: See https://github.com/google/gson/blob/main/Troubleshooting.md#unexpected-json-structure
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at up4.u0(SourceFile:57)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at up4.k(SourceFile:21)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	at me8.b(SourceFile:21)
+09-15 12:19:38.497 19127 19146 E loper.pixelplay: 	... 15 more
+09-15 12:19:40.139 19127 19146 W loper.pixelplay: Piped: Instance failed: 502 https://pipedapi.syncpundit.io
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: Piped: Instance failed: https://pipedapi.tokhmi.xyz
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: gs9: stream was reset: PROTOCOL_ERROR
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at q44.e(SourceFile:253)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at va0.d(SourceFile:4)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1713)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1359)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:582)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1079)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:203)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at d64.a(SourceFile:12)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1196)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at ob8.g(SourceFile:131)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at ob8.e(SourceFile:54)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at bg.b(SourceFile:234)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	Suppressed: gs9: stream was reset: PROTOCOL_ERROR
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 		... 30 more
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	Suppressed: gs9: stream was reset: PROTOCOL_ERROR
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 		... 30 more
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: gs9: stream was reset: PROTOCOL_ERROR
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at q44.e(SourceFile:253)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at va0.d(SourceFile:4)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1713)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1359)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:582)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1079)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:203)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at d64.a(SourceFile:12)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1196)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at ob8.g(SourceFile:131)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at ob8.e(SourceFile:54)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at bg.b(SourceFile:234)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	Suppressed: gs9: stream was reset: PROTOCOL_ERROR
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 		... 30 more
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 	Suppressed: gs9: stream was reset: PROTOCOL_ERROR
+09-15 12:19:44.245 19127 19146 W loper.pixelplay: 		... 30 more
+09-15 12:19:44.966 19127 19146 W loper.pixelplay: Piped: Instance failed: 502 https://pipedapi.moomoo.me
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: Piped: Instance failed: https://pipedapi.rivo.lol
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: javax.net.ssl.SSLHandshakeException: connection closed
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at com.android.org.conscrypt.SSLUtils.toSSLHandshakeException(SSLUtils.java:369)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at com.android.org.conscrypt.ConscryptEngineSocket.doHandshake(ConscryptEngineSocket.java:246)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at com.android.org.conscrypt.ConscryptEngineSocket.startHandshake(ConscryptEngineSocket.java:225)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at zm1.j(SourceFile:63)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at zm1.g(SourceFile:154)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at v33.b(SourceFile:152)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1260)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:582)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1079)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:203)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at d64.a(SourceFile:12)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1196)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at ob8.g(SourceFile:131)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at ob8.e(SourceFile:54)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at bg.b(SourceFile:234)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	Suppressed: javax.net.ssl.SSLHandshakeException: connection closed
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 		... 32 more
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	Caused by: java.io.EOFException: connection closed
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 		... 31 more
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: Caused by: java.io.EOFException: connection closed
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	... 31 more
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: javax.net.ssl.SSLHandshakeException: connection closed
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at com.android.org.conscrypt.SSLUtils.toSSLHandshakeException(SSLUtils.java:369)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at com.android.org.conscrypt.ConscryptEngineSocket.doHandshake(ConscryptEngineSocket.java:246)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at com.android.org.conscrypt.ConscryptEngineSocket.startHandshake(ConscryptEngineSocket.java:225)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at zm1.j(SourceFile:63)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at zm1.g(SourceFile:154)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at v33.b(SourceFile:152)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1260)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:582)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1079)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:203)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at d64.a(SourceFile:12)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at fy0.a(SourceFile:1196)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at xb8.b(SourceFile:106)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at ob8.g(SourceFile:131)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at ob8.e(SourceFile:54)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at bg.b(SourceFile:234)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	Suppressed: javax.net.ssl.SSLHandshakeException: connection closed
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 		... 32 more
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	Caused by: java.io.EOFException: connection closed
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 		... 31 more
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: Caused by: java.io.EOFException: connection closed
+09-15 12:19:46.498 19127 19146 W loper.pixelplay: 	... 31 more
+09-15 12:19:48.134 19127 19146 W loper.pixelplay: Piped: Instance failed: 502 https://pipedapi.leptons.xyz
+09-15 12:19:49.055 19127 19146 W loper.pixelplay: Piped: Instance failed: 502 https://piped-api.lunar.icu
+09-15 12:19:50.864 19127 19146 W loper.pixelplay: Piped: Instance failed: 403 https://pipedapi.adminforge.de
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: Piped: All instances failed for videoId=9qnqYL0eNNI
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: java.io.IOException: Piped HTTP 403 from https://pipedapi.adminforge.de
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at bg.b(SourceFile:271)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: java.io.IOException: Piped HTTP 403 from https://pipedapi.adminforge.de
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at bg.b(SourceFile:271)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:50.865 19127 19146 E loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: YouTubeExtractor: Piped failed
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: java.io.IOException: Piped HTTP 403 from https://pipedapi.adminforge.de
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at bg.b(SourceFile:271)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: java.io.IOException: Piped HTTP 403 from https://pipedapi.adminforge.de
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at bg.b(SourceFile:271)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at bg.invokeSuspend(SourceFile:251)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at bg.invoke(SourceFile:74)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at li7.a(SourceFile:60)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:283)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:19:50.865 19127 19146 W loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:19:53.270 19127 19146 W loper.pixelplay: YouTubeExtractor: NewPipe returned no valid audio streams
+09-15 12:19:56.078 19127 19146 W loper.pixelplay: YouTubeExtractor: NewPipe returned no valid audio streams
+09-15 12:20:00.170 19127 19146 W loper.pixelplay: YouTubeExtractor: NewPipe returned no valid audio streams
+09-15 12:20:00.170 19127 19146 W loper.pixelplay: YouTubeExtractor: Piped and NewPipe failed, checking yt-dlp as final fallback
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: YtDlp: Error checking availability
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: java.io.IOException: Cannot run program "yt-dlp": error=2, No such file or directory
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1050)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at mu.invokeSuspend(SourceFile:31)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at mu.invoke(SourceFile:17)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:914)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: Caused by: java.io.IOException: error=2, No such file or directory
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.UNIXProcess.forkAndExec(Native Method)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.UNIXProcess.<init>(UNIXProcess.java:133)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.ProcessImpl.start(ProcessImpl.java:141)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	... 10 more
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: java.io.IOException: Cannot run program "yt-dlp": error=2, No such file or directory
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1050)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at mu.invokeSuspend(SourceFile:31)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at mu.invoke(SourceFile:17)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at ge5.x(SourceFile:18)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at jt0.c0(SourceFile:79)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:914)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: Caused by: java.io.IOException: error=2, No such file or directory
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.UNIXProcess.forkAndExec(Native Method)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.UNIXProcess.<init>(UNIXProcess.java:133)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.ProcessImpl.start(ProcessImpl.java:141)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	... 10 more
+09-15 12:20:00.177 19127 19146 W loper.pixelplay: YouTubeExtractor: yt-dlp is not installed; skipping final fallback
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: YouTubeExtractor: All extraction methods failed for: 9qnqYL0eNNI
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: java.lang.Exception: NewPipe returned zero valid audio streams
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:760)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: java.lang.Exception: NewPipe returned zero valid audio streams
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at sr6.invokeSuspend(SourceFile:760)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at re2.run(SourceFile:113)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at m92.run(SourceFile:300)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at y1a.run(SourceFile:2)
+09-15 12:20:00.177 19127 19146 E loper.pixelplay: 	at yt1.run(SourceFile:87)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: YouTube playback: failed to resolve stream for videoId=9qnqYL0eNNI
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: java.lang.Exception: NewPipe returned zero valid audio streams
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at sr6.invokeSuspend(SourceFile:760)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at re2.run(SourceFile:113)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at m92.run(SourceFile:300)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at y1a.run(SourceFile:2)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at yt1.run(SourceFile:87)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: java.lang.Exception: NewPipe returned zero valid audio streams
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at sr6.invokeSuspend(SourceFile:760)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at oj0.resumeWith(SourceFile:7)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at re2.run(SourceFile:113)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at m92.run(SourceFile:300)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at y1a.run(SourceFile:2)
+09-15 12:20:00.177 19127 19127 E MusicService_PixelPlay: 	at yt1.run(SourceFile:87)
+09-15 12:20:00.184 19127 19127 W MusicService_PixelPlay: onAvailableCommandsChanged. Can Seek Command? false. IsSeekable? false. Duration: -9223372036854775807
+09-15 12:20:00.195 19127 19204 W HWUI    : Image decoding logging dropped!
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal: Playback error
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:   oz2: Source error
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at s03.t(SourceFile:16)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at s03.handleMessage(SourceFile:461)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at android.os.Handler.dispatchMessage(Handler.java:106)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at android.os.Looper.loopOnce(Looper.java:283)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at android.os.Looper.loop(Looper.java:392)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at android.os.HandlerThread.run(HandlerThread.java:94)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:   Caused by: x43: java.io.FileNotFoundException: : open failed: ENOENT (No such file or directory)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at y43.c(SourceFile:145)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at k42.c(SourceFile:309)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at ak8.c(SourceFile:68)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at kq9.c(SourceFile:10)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at l28.a(SourceFile:27)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at ve5.run(SourceFile:34)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at java.lang.Thread.run(Thread.java:1572)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:   Caused by: java.io.FileNotFoundException: : open failed: ENOENT (No such file or directory)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at libcore.io.IoBridge.open(IoBridge.java:574)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at java.io.RandomAccessFile.<init>(RandomAccessFile.java:307)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at java.io.RandomAccessFile.<init>(RandomAccessFile.java:237)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at java.io.RandomAccessFile.<init>(RandomAccessFile.java:154)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at y43.c(SourceFile:24)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       ... 8 more
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:   Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at libcore.io.Linux.open(Native Method)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at libcore.io.ForwardingOs.open(ForwardingOs.java:579)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at libcore.io.ForwardingOs.open(ForwardingOs.java:579)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:9134)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       at libcore.io.IoBridge.open(IoBridge.java:560)
+09-15 12:20:00.202 19127 19197 E ExoPlayerImplInternal:       ... 12 more
+09-15 12:20:00.209 19127 19127 W MusicService_PixelPlay: onAvailableCommandsChanged. Can Seek Command? false. IsSeekable? false. Duration: -9223372036854775807
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: Error en el reproductor: 
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: oz2: Source error
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at s03.t(SourceFile:16)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at s03.handleMessage(SourceFile:461)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.os.Looper.loopOnce(Looper.java:283)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.os.Looper.loop(Looper.java:392)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.os.HandlerThread.run(HandlerThread.java:94)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: Caused by: x43: java.io.FileNotFoundException: : open failed: ENOENT (No such file or directory)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at y43.c(SourceFile:145)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at k42.c(SourceFile:309)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at ak8.c(SourceFile:68)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at kq9.c(SourceFile:10)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at l28.a(SourceFile:27)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at ve5.run(SourceFile:34)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.lang.Thread.run(Thread.java:1572)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: Caused by: java.io.FileNotFoundException: : open failed: ENOENT (No such file or directory)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.IoBridge.open(IoBridge.java:574)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:307)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:237)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:154)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at y43.c(SourceFile:24)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	... 8 more
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.Linux.open(Native Method)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.ForwardingOs.open(ForwardingOs.java:579)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.ForwardingOs.open(ForwardingOs.java:579)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:9134)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.IoBridge.open(IoBridge.java:560)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	... 12 more
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: oz2: Source error
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at s03.t(SourceFile:16)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at s03.handleMessage(SourceFile:461)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.os.Looper.loopOnce(Looper.java:283)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.os.Looper.loop(Looper.java:392)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.os.HandlerThread.run(HandlerThread.java:94)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: Caused by: x43: java.io.FileNotFoundException: : open failed: ENOENT (No such file or directory)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at y43.c(SourceFile:145)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at k42.c(SourceFile:309)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at ak8.c(SourceFile:68)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at kq9.c(SourceFile:10)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at l28.a(SourceFile:27)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at ve5.run(SourceFile:34)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.lang.Thread.run(Thread.java:1572)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: Caused by: java.io.FileNotFoundException: : open failed: ENOENT (No such file or directory)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.IoBridge.open(IoBridge.java:574)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:307)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:237)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at java.io.RandomAccessFile.<init>(RandomAccessFile.java:154)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at y43.c(SourceFile:24)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	... 8 more
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.Linux.open(Native Method)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.ForwardingOs.open(ForwardingOs.java:579)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.ForwardingOs.open(ForwardingOs.java:579)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:9134)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	at libcore.io.IoBridge.open(IoBridge.java:560)
+09-15 12:20:00.225 19127 19127 E MusicService_PixelPlay: 	... 12 more
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl: Failed fetching recent media item at boot time.
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:   java.lang.UnsupportedOperationException
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at vz5.s(SourceFile:39)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at fn1.run(SourceFile:222)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at w3b.K(SourceFile:21)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at rz5.f(SourceFile:57)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at ou5.onLoadChildren(SourceFile:38)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.service.media.MediaBrowserService$ServiceState.performLoadChildrenOnHandler(MediaBrowserService.java:902)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.service.media.MediaBrowserService$ServiceState.addSubscriptionOnHandler(MediaBrowserService.java:760)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.service.media.MediaBrowserService$ServiceBinder.lambda$addSubscription$2(MediaBrowserService.java:279)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.service.media.MediaBrowserService$ServiceBinder$$ExternalSyntheticLambda4.run(D8$$SyntheticClass:0)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.os.Handler.handleCallback(Handler.java:995)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.os.Handler.dispatchMessage(Handler.java:103)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.os.Looper.loopOnce(Looper.java:283)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.os.Looper.loop(Looper.java:392)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at android.app.ActivityThread.main(ActivityThread.java:9248)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at java.lang.reflect.Method.invoke(Native Method)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:611)
+09-15 12:20:00.800 19127 19127 E MediaSessionImpl:       at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:944)
+09-15 12:20:00.913 19127 19145 W MusicService_PixelPlay: No se encontraron widgets para actualizar
+09-15 12:20:00.914 19127 19145 I NtAudioManager: getStreamVolume streamType :3, pkg :com.theveloper.pixelplay, index :6
