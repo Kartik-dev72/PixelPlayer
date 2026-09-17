@@ -49,6 +49,9 @@ class PixelPlayApplication : Application(), ImageLoaderFactory, Configuration.Pr
     lateinit var telegramCoilFetcherFactory: dagger.Lazy<com.theveloper.pixelplay.data.image.TelegramCoilFetcher.Factory>
 
     @Inject
+    lateinit var extensionBootstrap: ExtensionBootstrap
+
+    @Inject
     lateinit var navidromeCoilFetcherFactory: dagger.Lazy<com.theveloper.pixelplay.data.image.NavidromeCoilFetcher.Factory>
 
     @Inject
@@ -97,6 +100,7 @@ class PixelPlayApplication : Application(), ImageLoaderFactory, Configuration.Pr
     override fun onCreate() {
         instance = this
         super.onCreate()
+        extensionBootstrap.initialize()
 
         /*
          * Initialize NewPipe before any YouTube search or playback request.
