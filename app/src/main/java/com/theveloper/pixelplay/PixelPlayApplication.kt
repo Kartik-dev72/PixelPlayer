@@ -25,6 +25,7 @@ import com.theveloper.pixelplay.utils.AlbumArtUtils
 import com.theveloper.pixelplay.utils.CrashHandler
 import com.theveloper.pixelplay.utils.AppLocaleManager
 import com.theveloper.pixelplay.utils.MediaMetadataRetrieverPool
+import com.theveloper.pixelplay.extensions.ExtensionBootstrap
 import dagger.hilt.android.HiltAndroidApp
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
