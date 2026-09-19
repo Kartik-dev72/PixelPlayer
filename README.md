@@ -1,7 +1,7 @@
 # PixelPlayer+ 🎵
 
 <p align="center">
-  <img src="assets/icon.png" alt="App Icon" width="128"/>
+  <img src="assets/PixelPlayer.svg" alt="App Icon" height="250"/>
 </p>
 
 <p align="center">
@@ -239,3 +239,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
   <br>
   <small>Based on <a href="https://github.com/theovilardo/PixelPlayer">PixelPlayer by theovilardo</a></small>
 </p>
+<p align="center">
+  Logo designed by <a href="https://github.com/NPSummers">Aureal</a>.
+</p>
+
